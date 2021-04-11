@@ -1,0 +1,29 @@
+body{
+    background-image:url('img1.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-repeat: no-repeat;
+}
+#submit{
+    background-color: cyan;
+   
+}
+.oneline{
+    margin-top: 50px;
+    margin-left: 25%;
+}
+#fromDate{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#toDate{
+    margin-right: 5%;
+}
+.div_blue {
+    background-color: blue;
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: center;
+    color: white;
+}
